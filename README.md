@@ -28,8 +28,6 @@ What drives me about AI is simple: it evolves every single day. New tools, new p
 
 - **Risu** — Personal mobile app I'm actively building
 - **AI Agent Dashboard** — Modular AI agent dashboard with plugin support for real-time data analysis
-- **LLM Integration** — LLM embedded in a PHP web app with conversational context management
-- **Laravel Shop** — Full e-commerce platform (catalog, cart, checkout, admin)
 
 ---
 
